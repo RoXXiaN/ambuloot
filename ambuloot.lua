@@ -31,7 +31,7 @@ _addon.name = 'Ambuloot'
 _addon.author = 'Langly'
 _addon.version = '1.1'
 _addon.date = '11.15.2019'
-_addon.commands = {'ambuloot'}
+_addon.commands = {'ambuloot','ambu'}
 
 require('tables')
 require('logger')
